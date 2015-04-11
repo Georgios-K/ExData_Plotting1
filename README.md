@@ -1,3 +1,20 @@
+## Project 1
+
+First Step:
+Copy the four scripts (plot1.R, plot2.R, plot3.R, plot4.R) to the working directory
+
+Second Step:
+Create a directory named "Data" in the working directory and copy the file "household_power_consumption.txt" there
+("household_power_consumption.txt" is contained in the zip file "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip")
+
+Third step:
+Execute the R scripts in R Studio
+
+
+
+## Original Readme file
+
+
 ## Introduction
 
 This assignment uses data from
